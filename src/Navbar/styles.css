@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.main-navbar {
+    background-color: rgb(228, 146, 92);
+    height: 3rem;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo-text {
+    font-weight: bold;
+    font-size: 22pt;
+    font-style: none;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 9pt;
+
+}
