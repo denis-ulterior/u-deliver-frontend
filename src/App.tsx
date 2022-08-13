@@ -1,14 +1,10 @@
 import './App.css';
-import Home from './Home';
-import Navbar from './Navbar';
+import RouterOuts from './RouterOuts';
 
 
 function App() {
   return (
-    <>
-      <Navbar />
-      <Home />
-    </>
+      <RouterOuts />
   );
 }
 
